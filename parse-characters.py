@@ -1,4 +1,4 @@
-# parse characters with count episodes
+# parse characters with count of episodes
 import requests
 import pandas as pd
 
